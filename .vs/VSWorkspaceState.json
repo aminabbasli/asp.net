@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LoginMVC",
+    "\\LoginMVC\\App_Start",
+    "\\LoginMVC\\Controllers",
+    "\\LoginMVC\\Models",
+    "\\LoginMVC\\Views",
+    "\\LoginMVC\\Views\\Account",
+    "\\LoginMVC\\Views\\Shared"
+  ],
+  "SelectedNode": "\\LoginMVC\\Views\\Shared\\_Layout.cshtml",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\LoginMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A43635BA-4E3E-4EEF-A9C8-C90A0A3CE293}|LoginMVC\\LoginMVC.csproj|C:\\Users\\ASUS\\Desktop\\LoginMVC\\LoginMVC\\Models\\MyLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A43635BA-4E3E-4EEF-A9C8-C90A0A3CE293}|LoginMVC\\LoginMVC.csproj|solutionrelative:LoginMVC\\Models\\MyLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43635BA-4E3E-4EEF-A9C8-C90A0A3CE293}|LoginMVC\\LoginMVC.csproj|C:\\Users\\ASUS\\Desktop\\LoginMVC\\LoginMVC\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A43635BA-4E3E-4EEF-A9C8-C90A0A3CE293}|LoginMVC\\LoginMVC.csproj|solutionrelative:LoginMVC\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43635BA-4E3E-4EEF-A9C8-C90A0A3CE293}|LoginMVC\\LoginMVC.csproj|C:\\Users\\ASUS\\Desktop\\LoginMVC\\LoginMVC\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A43635BA-4E3E-4EEF-A9C8-C90A0A3CE293}|LoginMVC\\LoginMVC.csproj|solutionrelative:LoginMVC\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43635BA-4E3E-4EEF-A9C8-C90A0A3CE293}|LoginMVC\\LoginMVC.csproj|C:\\Users\\ASUS\\Desktop\\LoginMVC\\LoginMVC\\Models\\UserRegister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A43635BA-4E3E-4EEF-A9C8-C90A0A3CE293}|LoginMVC\\LoginMVC.csproj|solutionrelative:LoginMVC\\Models\\UserRegister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43635BA-4E3E-4EEF-A9C8-C90A0A3CE293}|LoginMVC\\LoginMVC.csproj|C:\\Users\\ASUS\\Desktop\\LoginMVC\\LoginMVC\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A43635BA-4E3E-4EEF-A9C8-C90A0A3CE293}|LoginMVC\\LoginMVC.csproj|solutionrelative:LoginMVC\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LoginMVC\\LoginMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LoginMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LoginMVC\\LoginMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LoginMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T21:33:01.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LoginMVC\\LoginMVC\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "LoginMVC\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LoginMVC\\LoginMVC\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "LoginMVC\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T21:31:32.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyLogin.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LoginMVC\\LoginMVC\\Models\\MyLogin.cs",
+              "RelativeDocumentMoniker": "LoginMVC\\Models\\MyLogin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LoginMVC\\LoginMVC\\Models\\MyLogin.cs",
+              "RelativeToolTip": "LoginMVC\\Models\\MyLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T21:30:30.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRegister.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LoginMVC\\LoginMVC\\Models\\UserRegister.cs",
+              "RelativeDocumentMoniker": "LoginMVC\\Models\\UserRegister.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LoginMVC\\LoginMVC\\Models\\UserRegister.cs",
+              "RelativeToolTip": "LoginMVC\\Models\\UserRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T19:49:06.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LoginMVC\\LoginMVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "LoginMVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LoginMVC\\LoginMVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "LoginMVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T19:48:50.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
